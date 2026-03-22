@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # 🎯 Load model, scaler, and features
-model = pickle.load(open("model (1).pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
 scaler = pickle.load(open("scaler.pkl", "rb"))
 features_list = pickle.load(open("features.pkl", "rb"))
 
