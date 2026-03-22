@@ -4,4 +4,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+keras
+tensorflow
+pickle-mixin
 
